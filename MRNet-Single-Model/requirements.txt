@@ -37,5 +37,5 @@ torchsample @ git+https://github.com/ncullen93/torchsample@ea4d1b3975f68be052194
 torchvision==0.7.0
 tqdm==4.49.0
 urllib3==1.25.10
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 zipp==3.2.0
